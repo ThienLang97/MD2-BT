@@ -1,0 +1,22 @@
+
+.TatCa{
+    display: flex;
+    .Reg {
+            background-color: red;
+            width: 200px;
+            height: 250px;
+            margin: 50px 50px;
+            margin-left: 100px;
+            text-align: center;
+    
+            button {
+                margin-top: 20px;
+            }
+        }
+        table{
+            width: 200px;
+            text-align: center;
+            border: 1px solid black;
+            height: 100px;
+        }
+}

@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "coca",
+      "price": "15000",
+      "quantity":"1"
+    },{
+      "id": 2,
+      "name": "tobacco",
+      "price": "12000",
+      "quantity":"1"
+    },{
+      "id": 3,
+      "name": "sprite",
+      "price": "15000",
+      "quantity":"1"
+    },{
+      "id": 4,
+      "name": "dú rẽ",
+      "price": "50000",
+      "quantity":"1"
+    },{
+      "id": 5,
+      "name": "phở gà",
+      "price": "50000",
+      "quantity":"1"
+    }
+  ]
+}

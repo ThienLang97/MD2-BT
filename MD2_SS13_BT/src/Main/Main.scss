@@ -1,0 +1,43 @@
+.listProducts {
+
+    td,
+    th {
+        border: 1px solid black;
+    }
+
+    text-align: center;
+    width: 500px;
+    margin-left: 300px;
+
+    button {
+        background-color: black;
+        color: red;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: white;
+        color: red;
+    }
+}
+.cart{
+    td,
+        th {
+            border: 1px solid black;
+        }
+    
+        text-align: center;
+        width: 500px;
+        margin-left: 300px;
+    
+        button {
+            background-color: black;
+            color: red;
+            cursor: pointer;
+        }
+    
+        button:hover {
+            background-color: white;
+            color: red;
+        }
+}

@@ -1,0 +1,64 @@
+.header {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    justify-content: space-around;
+    background-color: rgb(0, 238, 255);
+    position: absolute;
+    top: 0;
+
+    h2 {
+        margin: auto 0;
+        /* Giữa h2 trong header */
+    }
+
+    .searchBar {
+        margin-top: 7px;
+
+        input {
+            width: 250px;
+            height: 30px;
+            vertical-align: middle;
+        }
+
+        .search-icon {
+            margin-left: 50px;
+            vertical-align: middle;
+        }
+    }
+
+    .icons {
+        margin-top: 7px;
+        display: flex;
+
+        .test {
+            width: 100px;
+
+
+            .cart-icon {
+                vertical-align: middle;
+                margin-right: 10px;
+                cursor: pointer;
+            }
+            .cart-icon:hover{
+                color: white;
+            }
+
+            span {
+                padding: 2px 10px;
+                background-color: red;
+                color: black;
+            }
+
+        }
+
+        .user-icon {
+            width: 30px;
+
+            .user {
+
+                margin-left: 50px;
+            }
+        }
+    }
+}
